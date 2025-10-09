@@ -9,7 +9,7 @@ This repository contains code and exercises developed during the **Data Science*
 - Visual Studio Code
 
 
-##Credits
+## Credits
 
 This repository was created as part of the **Data Science** course taught by Professor Elias Buitrago Bolivar.
 
